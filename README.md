@@ -1,5 +1,5 @@
 # Temporal_Pooling
-Implementation of temporal pooling methods studied in [ICIP'20] A Comparative Evaluation Of Temporal Pooling Methods For Blind Video Quality Assessment
+Implementation of temporal pooling methods studied in [ICIP'20] A Comparative Evaluation Of Temporal Pooling Methods For Blind Video Quality Assessment. [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/9191169)
 
 ## Requirements
 
